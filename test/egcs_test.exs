@@ -2,7 +2,7 @@ defmodule EgcsTest do
   use ExUnit.Case
   doctest Egcs
 
-  test "greets the world" do
-    assert Egcs.hello() == :world
+  test "is ok" do
+    assert Egcs.run() == :ok
   end
 end
