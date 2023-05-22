@@ -24,3 +24,6 @@ egcs-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Config
+/config/
